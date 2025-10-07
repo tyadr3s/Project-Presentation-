@@ -1,18 +1,18 @@
 # GitHub Copilot Workspace – The Future of AI in Software Development
 
-## 👥 Team Members
+## Team Members
 
 - Carlos Ramirez 
 
 
 
 
-## 📘 Topic Summary
+## Topic Summary
 
 
 
-## 🎥 YouTube Presentation
+## YouTube Presentation
 
 
 
-## 💭 Final Question
+## Final Question
