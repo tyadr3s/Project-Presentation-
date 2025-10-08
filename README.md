@@ -4,6 +4,7 @@
 
 - Carlos Ramirez 
 - Troy Drake
+- Khush Parikh
 
 
 
