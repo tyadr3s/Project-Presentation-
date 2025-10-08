@@ -5,7 +5,7 @@
 - Carlos Ramirez 
 - Troy Drake
 - Khush Parikh
-- Juan Miguel
+- Miguel Montoya
 
 
 ## Topic Summary
