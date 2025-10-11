@@ -1,5 +1,4 @@
-# GitHub Copilot Workspace – The Future of AI in Software Development
-
+# GitHub Copilot Workspace 
 ## Team Members
 
 - Carlos Ramirez 
