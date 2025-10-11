@@ -1,4 +1,4 @@
-# GitHub Copilot Workspace 
+# GitHub Copilot Workspace - Remote Work Drives an Increase in Cloud Computing
 ## Team Members
 
 - Carlos Ramirez 
@@ -8,6 +8,7 @@
 
 
 ## Topic Summary
+
 
 
 
