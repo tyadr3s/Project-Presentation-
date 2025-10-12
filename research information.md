@@ -1,4 +1,4 @@
-#Andres
+Andres
 
 How Remote Work Has Changed Cloud Spending – Binadox
 
@@ -8,7 +8,7 @@ New Report Shows Remote Work Continues to Accelerate Cloud Adoption and Collabor
 
 Summary: This report shows that remote work has accelerated cloud adoption timelines. Organizations are moving faster to the cloud to ensure business continuity, flexibility, and reduced on-premises infrastructure costs. It also highlights growing concerns about cybersecurity as employees work from outside corporate networks.
 
-#Khush 
+Khush 
 
 [12:53 PM, 10/8/2025] K . P .: 3. Remote Work Drives An Increase In Cloud Computing
 
@@ -45,4 +45,4 @@ blog.bccresearch.com
 
 Implication: Remote work is no longer a niche scenario — it’s a core part of many orgs’ infrastructure planning, pushing heavy cloud investment.
 
-#Juan
+Juan
