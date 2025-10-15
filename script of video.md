@@ -1,4 +1,4 @@
-https://docs.google.com/presentation/d/1Oj557jVMAQDwnXDd8CR_2euOX2fWoTEcpe3UdTIAKXA/edit?slide=id.g38bf748b05e_0_186#slide=id.g38bf748b05e_0_186
+https://docs.google.com/presentation/d/1Oj557jVMAQDwnXDd8CR_2euOX2fWoTEcpe3UdTIAKXA/edit?slide=id.p#slide=id.p
 
 Video Presentation Guide (Troy)
 
